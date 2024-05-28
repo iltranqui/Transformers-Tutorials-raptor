@@ -9,3 +9,6 @@ model/
 
 # Csv data
 *.csv.DS_Store
+
+# Datasets
+SegFormer/ADE20k_toy_dataset
